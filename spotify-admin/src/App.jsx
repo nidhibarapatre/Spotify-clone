@@ -8,7 +8,7 @@ import ListAlbum from './pages/ListAlbum';
 import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 
-export const url = "https://spotify-clone-backend-nxf2.onrender.com";
+export const url = "https://spotify-clone-backend-8b2f.onrender.com";
 
 const App = () => {
   return (
